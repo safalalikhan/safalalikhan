@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safalalikhan
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Java backend development
 - 💞️ I’m looking to collaborate on Challenging projects
 - 📫 How to reach me +918137888877, safalalikhan@gmail.com
 
