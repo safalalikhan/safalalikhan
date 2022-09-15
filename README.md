@@ -1,7 +1,9 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>I am Safal Ali Khan, Java Back-End Developer :computer:<br>
+  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7ED1B&width=435&lines=I'm+Safal+Ali+Khan" alt="Typing SVG" /></a>
+ <br>Java Back-End Developer :computer:<br>
     <img >
  </abc>
 </h2> 
