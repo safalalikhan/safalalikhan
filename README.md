@@ -34,6 +34,8 @@
 ![Safal's' Github Stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safalalikhan&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+From [@safalalikhan](https://github.com/safalalikhan)
  
  <h2 align="left">:heart: Let's get connected:</h2>
 
