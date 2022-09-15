@@ -31,11 +31,11 @@
 
 <h2>🏆 Github Profile Review:</h2>
 
-![Safal's' Github Stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Safal's' Github Stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safalalikhan&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safalalikhan&theme=dark&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safalalikhan&layout=compact)](https://github.com/safalalikhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safalalikhan&layout=compact&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)](https://github.com/safalalikhan/github-readme-stats)
 
 
 From [@safalalikhan](https://github.com/safalalikhan)
