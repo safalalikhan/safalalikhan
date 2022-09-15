@@ -17,7 +17,7 @@
 - :heart: Problem Solver by heart  
 - :zap: Fun fact: I love playing football, traveling and cycling <br>
 
-## Languages and Tools: 
+<h2>🧮 Languages and Tools:</h2>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bash" width="60" height="50"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="css3" width="60" height="50"/></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeBBf2wDMIxx5mkTXcEEfZUkjlEYMXY5MVZyy-yg&s" alt="git" width="60" height="50"/></code>
@@ -29,7 +29,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="60" height="50"/></code>
 
 
-<h2>🏆 Github Profile Review</h2>
+<h2>🏆 Github Profile Review:</h2>
 
 ![Safal's' Github Stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
