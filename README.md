@@ -26,3 +26,18 @@
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="50"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="60" height="50"/></code>
+
+---<h2>🏆 Github Profile Review</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=safalalikhan&column=9&theme=gruvbox&no-frame=true"/>
+
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safalalikhan&layout=compact)
+
+ From [@safalalikhan](https://github.com/safalalikhan)
+ 
+ <h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-safalalikhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safalalikhan/)](https://www.linkedin.com/in/safalalikhan) [![Twitter Badge](https://img.shields.io/badge/-@safalalikhan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zafalalikhan)](https://twitter.com/zafalalikhan) [![Facebook Badge](https://img.shields.io/badge/-@safalalikhan-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/safalalikhan)](https://www.facebook.com/safalalikhan) [![Instagram Badge](https://img.shields.io/badge/-@zafalalikhan-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/zafalalikhan/)](https://www.instagram.com/zafalalikhan/)
+[![Linkedin Badge](https://img.shields.io/badge/-safalalikhan-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://safalalikhan.com/)](https://safalalikhan.com/)
