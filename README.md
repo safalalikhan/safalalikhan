@@ -7,6 +7,8 @@
     <img >
  </abc>
 </h2> 
+
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently studying @Masai School
@@ -17,7 +19,9 @@
 - :heart: Problem Solver by heart  
 - :zap: Fun fact: I love playing football, traveling and cycling <br>
 
+
 <h2>🧮 Languages and Tools:</h2>
+
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bash" width="60" height="50"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="css3" width="60" height="50"/></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeBBf2wDMIxx5mkTXcEEfZUkjlEYMXY5MVZyy-yg&s" alt="git" width="60" height="50"/></code>
@@ -39,6 +43,7 @@
 
 
 From [@safalalikhan](https://github.com/safalalikhan)
+ 
  
  <h2 align="left">:heart: Let's get connected:</h2>
 
