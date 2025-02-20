@@ -14,7 +14,7 @@
 - :computer: I'm currently working @Masai School
 - :hourglass_flowing_sand:  Exploring Java and its Frameworks
 - :rocket: Always ready to collaborate on interesting and challenging projects
-- :man_technologist: Ex-CUSATian, Co-Founder Travethon-For the travelbugged
+- :man_technologist: Co-Founder Travethon-For the travelbugged, Proprietor Zameer Agency
 - :dart: Living By: "Imagination is more important than Knowledge"
 - :heart: Problem Solver by heart  
 - :zap: Fun fact: I love playing football, traveling and cycling <br>
