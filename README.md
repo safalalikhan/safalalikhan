@@ -15,7 +15,7 @@
 - :hourglass_flowing_sand:  Worked extensively with Java and its Frameworks
 - :rocket: Always ready to collaborate on interesting and challenging projects
 - :man_technologist: Ex-Masai, Co-Founder Travethon-For the travel-bugged, Proprietor Zameer Agency
-- :dart: Living By: "Imagination is more important than Knowledge"
+- :dart: Living By: "Imagination is important than Knowledge"
 - :heart: Problem Solver by heart  
 - :zap: Fun fact: I love playing football, travelling, trekking and cycling <br>
 
