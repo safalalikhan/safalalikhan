@@ -33,7 +33,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="60" height="50"/></code>
 
 
-<h2>🏆 Github Profile Review:</h2>
+<h2>🏆 Github Profile Review :</h2>
 
 ![Safal's' Github Stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
 
