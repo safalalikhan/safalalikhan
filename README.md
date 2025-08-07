@@ -9,7 +9,7 @@
 </h2> 
 
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About  Me:</h2>
 
 - :computer: I'm currently studying InfoTech @ UOW
 - :hourglass_flowing_sand:  Worked with Java and its Frameworks, now exploring MERN
