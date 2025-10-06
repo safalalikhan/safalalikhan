@@ -31,17 +31,3 @@
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="50"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" width="60" height="50"/></code>
-
-
-<h2>🏆 Github Profile Review :</h2>
-
-![Safal's' Github Stats](https://github-readme-stats.vercel.app/api?username=safalalikhan&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safalalikhan&theme=dark&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safalalikhan&layout=compact&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)](https://github.com/safalalikhan/github-readme-stats)
-
-
-From [@safalalikhan](https://github.com/safalalikhan)
- 
- 
