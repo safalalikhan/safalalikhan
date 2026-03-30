@@ -9,15 +9,15 @@
 </h2> 
 
 
-<h2 align="left">👨🏻‍💻 About  Me:</h2>
+<h2 align="left">About  Me:</h2>
 
-- :computer: I'm currently studying InfoTech @ UOW
-- :hourglass_flowing_sand:  Worked with Java and its Frameworks, now exploring MERN
-- :rocket: Always ready to collaborate on interesting and challenging projects
-- :man_technologist: Ex-Masai, Co-Founder Travethon-For the travel-bugged, Proprietor Zameer Agency, Ex-Dev @Nolan Edutech
-- :dart: Living By: "Imagination is important than Knowledge"
-- :heart: Problem Solver by heart  
-- :zap: I love playing football, travelling, trekking and cycling <br>
+- :computer: Master of InfoTech from UoW
+- :hourglass_flowing_sand: playing with Java and its Frameworks, now exploring MERN and prompt engineering
+- :rocket: always ready to collaborate on interesting and challenging projects
+- :man_technologist: ex-Masai, co-Founder Travethon-for the travel-bugged, proprietor Zameer Agency, ex-dev @ Nolan Edutech
+- :dart: believe in: "imagination is more important than knowledge"
+- :heart: problem solver by heart  
+- :zap: love playing football, travelling, hiking and cycling <br>
 
 
 <h2>🧮 Languages and Tools:</h2>
