@@ -7,7 +7,7 @@
     <img >
  </abc>
 </h2> 
-<h2 align="left">About  Me:</h2>
+<!-- <h2 align="left">About  Me:</h2> -->
 <br> - Master of InfoTech from UoW
 <br> - Playing with Java and its frameworks, now exploring MERN and prompt engineering
 <br> - Always ready to collaborate on interesting and challenging projects
