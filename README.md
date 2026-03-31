@@ -14,4 +14,4 @@
 <br> - Ex-Masai, Co-Founder Travethon-for the travel-bugged, Proprietor Zameer Agency, Ex-Dev @ Nolan Edutech
 <br> - Believe in: "imagination is more important than knowledge"
 <br> - Problem solver by heart  
-<br> - Love playing football & cricket, travelling, hiking and cycling
+<br> - Love playing football & cricket, travelling, hiking and cycling.
