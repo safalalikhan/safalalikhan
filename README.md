@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Safal. Call me sak.</h1>
+<h1 align="center">Hey, I'm Safal Ali Khan. Call me sak.</h1>
 
 <p align="center">
   <a href="https://safalalikhan.com">
